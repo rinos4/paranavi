@@ -1,0 +1,4 @@
+*.c diff=sjis
+*.h diff=sjis
+*.S diff=sjis
+Makefile diff=sjis
