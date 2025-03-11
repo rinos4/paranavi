@@ -33,7 +33,7 @@ GBAs are widely available second-hand and can be purchased cheaply. They also  w
 
 The software will also  work with NDS , but since NDS does not have an expansion connector for communications , it will be necessary to modify the device in order to connect it to a GPS via cable.
 
-![GPA0](docs/gba0.jpg)
+![GBA0](docs/gba0.jpg)
 
 Nintendo has announced a new model called GAMEBOY micro (tentative name), which has a sturdy metal body, is slightly smaller and lighter than eTrex, and is perfect for navigation. You should be able to use this device without any problems. ⇒It has been confirmed to work with a device that was given to us for debugging purposes after its release . (Note that the connector is for micro only)
 
